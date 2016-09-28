@@ -2,7 +2,7 @@
 
 ### Dark theme for Notepad++ based on Darcula theme from JetBrains products
 
-####Currently the following langiages are supported:
+####Currently the following languages are supported:
 * C/C++
 * C#
 * Java
@@ -12,4 +12,4 @@
 ####Installation
 Copy file **Darcula.xml** to _C:/Users/{UserName}/AppData/Roaming/Notepad++/themes_ directory.
 
-more languages coming soon.
+Stay tuned for more languages!
