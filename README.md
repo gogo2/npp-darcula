@@ -7,9 +7,15 @@
 * C#
 * Java
 * HTML
+* JavaScript and JSON
 * XML
+* CMake
+(Note: some styles may slightly differ from original Darcula because of Notepad++ limitations)
 
 ####Installation
 Copy file **Darcula.xml** to _C:/Users/{UserName}/AppData/Roaming/Notepad++/themes_ directory.
 
 Stay tuned for more languages!
+
+
+
