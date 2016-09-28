@@ -10,6 +10,7 @@
 * JavaScript and JSON
 * XML
 * CMake
+
 (Note: some styles may slightly differ from original Darcula because of Notepad++ limitations)
 
 ####Installation
