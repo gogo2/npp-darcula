@@ -16,7 +16,8 @@
 ####Installation
 Copy file **Darcula.xml** to _C:/Users/{UserName}/AppData/Roaming/Notepad++/themes_ directory.
 
-Stay tuned for more languages!
+
+####Stay tuned for more languages!
 
 
 
