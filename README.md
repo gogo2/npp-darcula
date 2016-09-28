@@ -6,8 +6,10 @@
 * C/C++
 * C#
 * Java
-* HTML
+* Python
+* PHP
 * JavaScript and JSON
+* HTML
 * XML
 * CMake
 

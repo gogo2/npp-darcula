@@ -19,7 +19,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
 <NotepadPlus>
     <LexerStyles>
         <LexerType name="actionscript" desc="ActionScript" ext="">
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="FUNCTION" styleID="20" fgColor="95004A" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="type2"/>
@@ -35,7 +35,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
             <WordsStyle name="VERBATIM" styleID="13" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
@@ -59,7 +59,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontStyle="0" fontSize=""/>
         </LexerType>
         <LexerType name="ada" desc="ADA" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="INSTRUCTION WORD" styleID="1" fgColor="0000FF" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
@@ -99,7 +99,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="asm" desc="Assembly" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -129,7 +129,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize="" keywordClass="type4"/>
         </LexerType>
         <LexerType name="autoit" desc="autoIt" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT LINE" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -161,7 +161,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="bash" desc="bash" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="ERROR" styleID="1" fgColor="2B2B2B" bgColor="FF0000" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -191,7 +191,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="batch" desc="Batch" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -211,7 +211,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
         <LexerType name="c" desc="C" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="bbb529" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
@@ -223,9 +223,9 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
-            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="REGEX" styleID="14" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
@@ -249,7 +249,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
         <LexerType name="cpp" desc="C++" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="bbb529" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
@@ -261,9 +261,9 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
-            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="REGEX" styleID="14" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
@@ -287,7 +287,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
         <LexerType name="cs" desc="C#" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="bbb529" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
@@ -299,9 +299,9 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
-            <WordsStyle name="VERBATIM" styleID="13" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="REGEX" styleID="14" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
@@ -323,7 +323,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontStyle="0" fontSize=""/>
         </LexerType>
         <LexerType name="caml" desc="Caml" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="IDENTIFIER" styleID="1" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -365,7 +365,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="STRING R" styleID="4" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="4"
                         fontSize=""/>
-            <WordsStyle name="COMMAND" styleID="5" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="COMMAND" styleID="5" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
             <WordsStyle name="PARAMETER" styleID="6" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -389,7 +389,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
         <LexerType name="cobol" desc="COBOL" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="bbb529" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="DECLARATION" styleID="5" fgColor="8000FF" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
@@ -403,7 +403,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -421,7 +421,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
         <LexerType name="coffeescript" desc="CoffeeScript" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="bbb529" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
@@ -433,9 +433,9 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
-            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="REGEX" styleID="14" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
@@ -461,7 +461,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontStyle="0" fontSize=""/>
         </LexerType>
         <LexerType name="css" desc="CSS" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="TAG" styleID="1" fgColor="0000FF" bgColor="2B2B2B" fontName="Batang" fontStyle="0"
                         fontSize=""/>
@@ -488,7 +488,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="d" desc="D" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="IDENTIFIER" styleID="14" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -534,7 +534,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="diff" desc="DIFF" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -550,7 +550,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="gui4cli" desc="GUI4CLI" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT LINE" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -568,14 +568,14 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize="" keywordClass="type3"/>
             <WordsStyle name="STRING" styleID="6" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
         </LexerType>
         <LexerType name="nfo" desc="Dos Style" ext="">
-            <WordsStyle name="DEFAULT" styleID="32" fgColor="a9b7c9" bgColor="2B2B2B"/>
+            <WordsStyle name="DEFAULT" styleID="32" fgColor="A9B7C6" bgColor="2B2B2B"/>
         </LexerType>
         <LexerType name="fortran" desc="Fortran (free form)" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -605,7 +605,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="fortran77" desc="Fortran (fixed form)" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -635,7 +635,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="haskell" desc="Haskell" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="IDENTIFIER" styleID="1" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -671,7 +671,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="html" desc="HTML" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="9" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -690,17 +690,17 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="ATTRIBUTEUNKNOWN" styleID="4" fgColor="BABABA" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="SGMLDEFAULT" styleID="21" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="SGMLDEFAULT" styleID="21" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="CDATA" styleID="17" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="CDATA" styleID="17" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="VALUE" styleID="19" fgColor="A5C261" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="ENTITY" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="2"
+            <WordsStyle name="ENTITY" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="2"
                         fontSize=""/>
         </LexerType>
         <LexerType name="ini" desc="ini file" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -712,7 +712,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="inno" desc="InnoSetup" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -742,7 +742,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
         <LexerType name="java" desc="Java" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="bbb529" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
@@ -754,9 +754,9 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
-            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="REGEX" styleID="14" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
@@ -774,11 +774,11 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontStyle="0" fontSize=""/>
         </LexerType>
         <LexerType name="javascript" desc="JavaScript (embedded)" ext="">
-            <WordsStyle name="DEFAULT" styleID="41" fgColor="a9b7c9" bgColor="2b2b2b" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="41" fgColor="A9B7C6" bgColor="2b2b2b" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="NUMBER" styleID="45" fgColor="6897BB" bgColor="2b2b2b" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="WORD" styleID="46" fgColor="a9b7c9" bgColor="2b2b2b" fontName="" fontStyle="0"
+            <WordsStyle name="WORD" styleID="46" fgColor="A9B7C6" bgColor="2b2b2b" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="KEYWORD" styleID="47" fgColor="CC7832" bgColor="2b2b2b" fontName="" fontStyle="3"
                         fontSize="" keywordClass="instre1"/>
@@ -786,7 +786,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="SINGLESTRING" styleID="49" fgColor="6a8759" bgColor="2b2b2b" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="SYMBOLS" styleID="50" fgColor="a9b7c9" bgColor="2b2b2b" fontName="" fontStyle="1"
+            <WordsStyle name="SYMBOLS" styleID="50" fgColor="A9B7C6" bgColor="2b2b2b" fontName="" fontStyle="1"
                         fontSize=""/>
             <WordsStyle name="REGEX" styleID="52" fgColor="6a8759" bgColor="2b2b2b" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -798,13 +798,13 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="javascript.js" desc="JavaScript" ext="">
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="type1"/>
-            <WordsStyle name="WINDOW INSTRUCTION" styleID="19" fgColor="a9b7c9" bgColor="2B2B2B" fontName=""
+            <WordsStyle name="WINDOW INSTRUCTION" styleID="19" fgColor="A9B7C6" bgColor="2B2B2B" fontName=""
                         fontStyle="1" fontSize="" keywordClass="instre2"/>
             <WordsStyle name="NUMBER" styleID="4" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -814,9 +814,9 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
-            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="REGEX" styleID="14" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
@@ -834,7 +834,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontStyle="0" fontSize=""/>
         </LexerType>
         <LexerType name="json" desc="JSON" ext="">
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="NUMBER" styleID="4" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -844,7 +844,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontStyle="0" fontSize=""/>
             <WordsStyle name="BOOLEAN NULL" styleID="5" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
         </LexerType>
         <LexerType name="kix" desc="KiXtart" ext="">
@@ -869,7 +869,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="lisp" desc="LISP" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENTLINE" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -893,7 +893,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="lua" desc="Lua" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -913,7 +913,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
             <WordsStyle name="FUNC1" styleID="13" fgColor="0080C0" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre2"/>
@@ -927,7 +927,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="makefile" desc="Makefile" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -943,7 +943,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="matlab" desc="Matlab" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -963,7 +963,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontStyle="0" fontSize=""/>
         </LexerType>
         <LexerType name="nsis" desc="NSIS" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENTLINE" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1005,7 +1005,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
         <LexerType name="objc" desc="Objective-C" ext="">
             <WordsStyle name="DIRECTIVE" styleID="19" fgColor="A001D6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre2"/>
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="QUALIFIER" styleID="20" fgColor="95004A" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="type2"/>
@@ -1021,7 +1021,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
             <WordsStyle name="VERBATIM" styleID="13" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
@@ -1083,7 +1083,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
             <WordsStyle name="REGEX" styleID="17" fgColor="8080FF" bgColor="F8FEDE" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1112,31 +1112,31 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="php" desc="php" ext="">
-            <WordsStyle name="QUESTION MARK" styleID="18" fgColor="FF0000" bgColor="FDF8E3" fontName="" fontStyle="0"
+            <WordsStyle name="QUESTION MARK" styleID="18" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DEFAULT" styleID="118" fgColor="000000" bgColor="FEFCF5" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="118" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="STRING" styleID="119" fgColor="808080" bgColor="FEFCF5" fontName="" fontStyle="0"
+            <WordsStyle name="STRING" styleID="119" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="STRING VARIABLE" styleID="126" fgColor="808080" bgColor="FEFCF5" fontName="" fontStyle="1"
+            <WordsStyle name="STRING VARIABLE" styleID="126" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
-            <WordsStyle name="SIMPLESTRING" styleID="120" fgColor="808080" bgColor="FEFCF5" fontName="" fontStyle="0"
+            <WordsStyle name="SIMPLESTRING" styleID="120" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="WORD" styleID="121" fgColor="0000FF" bgColor="FEFCF5" fontName="" fontStyle="1"
+            <WordsStyle name="WORD" styleID="121" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
-            <WordsStyle name="NUMBER" styleID="122" fgColor="FF8000" bgColor="FEFCF5" fontName="" fontStyle="0"
+            <WordsStyle name="NUMBER" styleID="122" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="VARIABLE" styleID="123" fgColor="000080" bgColor="FEFCF5" fontName="" fontStyle="0"
+            <WordsStyle name="VARIABLE" styleID="123" fgColor="9876AA" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="COMMENT" styleID="124" fgColor="808080" bgColor="FEFCF5" fontName="" fontStyle="0"
+            <WordsStyle name="COMMENT" styleID="124" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="COMMENTLINE" styleID="125" fgColor="808080" bgColor="FEFCF5" fontName="" fontStyle="0"
+            <WordsStyle name="COMMENTLINE" styleID="125" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="127" fgColor="8000FF" bgColor="FEFCF5" fontName="" fontStyle="0"
+            <WordsStyle name="OPERATOR" styleID="127" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
         </LexerType>
         <LexerType name="postscript" desc="Postscript" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1170,7 +1170,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="powershell" desc="PowerShell" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1200,7 +1200,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontStyle="1" fontSize="" keywordClass="type4"/>
         </LexerType>
         <LexerType name="props" desc="Properties file" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1212,37 +1212,37 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="python" desc="Python" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENTLINE" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="NUMBER" styleID="2" fgColor="FF0000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="NUMBER" styleID="2" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="STRING" styleID="3" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="STRING" styleID="3" fgColor="A5C261" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="CHARACTER" styleID="4" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="CHARACTER" styleID="4" fgColor="A5C261" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="KEYWORDS" styleID="5" fgColor="0000FF" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="KEYWORDS" styleID="5" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
-            <WordsStyle name="TRIPLE" styleID="6" fgColor="FF8000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="TRIPLE" styleID="6" fgColor="649755" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="FF8000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="629755" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="CLASSNAME" styleID="8" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="CLASSNAME" styleID="8" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
-            <WordsStyle name="DEFNAME" styleID="9" fgColor="FF00FF" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFNAME" styleID="9" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
-            <WordsStyle name="IDENTIFIER" styleID="11" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="IDENTIFIER" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENTBLOCK" styleID="12" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DECORATOR" styleID="15" fgColor="FF8000" bgColor="2B2B2B" fontName="" fontStyle="2"
+            <WordsStyle name="DECORATOR" styleID="15" fgColor="BBB529" bgColor="2B2B2B" fontName="" fontStyle="2"
                         fontSize=""/>
         </LexerType>
         <LexerType name="r" desc="R" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1268,7 +1268,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
         <LexerType name="rc" desc="RC" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="bbb529" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="a9b7c9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize="" keywordClass="instre1"/>
@@ -1280,9 +1280,9 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
-            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="VERBATIM" styleID="13" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="REGEX" styleID="14" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
@@ -1304,7 +1304,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontStyle="0" fontSize=""/>
         </LexerType>
         <LexerType name="ruby" desc="Ruby" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="ERROR" styleID="1" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1323,7 +1323,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="DEF NAME" styleID="9" fgColor="8080FF" bgColor="FFFFCC" fontName="" fontStyle="1"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1347,7 +1347,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="scheme" desc="Scheme" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENTLINE" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1371,7 +1371,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="smalltalk" desc="Smalltalk" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="STRING" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1414,7 +1414,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="STRING2" styleID="7" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1422,7 +1422,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="tcl" desc="TCL" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="MODIFIER" styleID="10" fgColor="804000" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1456,7 +1456,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="tex" desc="TeX" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="SPECIAL" styleID="1" fgColor="FF8000" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
@@ -1488,7 +1488,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="verilog" desc="Verilog" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1498,7 +1498,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize="" keywordClass="instre1"/>
             <WordsStyle name="KEYWORD" styleID="7" fgColor="8000FF" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="type1"/>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
             <WordsStyle name="NUMBER" styleID="4" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1516,7 +1516,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
         </LexerType>
         <LexerType name="vhdl" desc="VHDL" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1554,7 +1554,7 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="XMLEND" styleID="13" fgColor="E8BF6A" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="1"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="9" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1573,13 +1573,13 @@ Supported languages: C, C++, C#, Java, HTML, XML
                         fontSize=""/>
             <WordsStyle name="ATTRIBUTEUNKNOWN" styleID="4" fgColor="BABABA" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="SGMLDEFAULT" styleID="21" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="SGMLDEFAULT" styleID="21" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="CDATA" styleID="17" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="CDATA" styleID="17" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
         </LexerType>
         <LexerType name="yaml" desc="YAML" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C9" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="IDENTIFIER" styleID="2" fgColor="000080" bgColor="2B2B2B" fontName="" fontStyle="1"
                         fontSize=""/>
@@ -1614,29 +1614,29 @@ Supported languages: C, C++, C#, Java, HTML, XML
     </LexerStyles>
     <GlobalStyles>
 
-        <!-- Attention : Don't modify the name of styleID="0" -->
+        <!-- Attention : Don't modify the name of styleID="0" --><!-- ok -->
         <WidgetStyle name="Global override" styleID="0" fgColor="FFFF80" bgColor="FF8000" fontName="Courier New"
-                     fontStyle="0" fontSize="10"/>
+                     fontStyle="0" fontSize="10"/><!-- ok -->
         <WidgetStyle name="Default Style" styleID="32" fgColor="A9B7C6" bgColor="2B2B2B" fontName="Courier New"
-                     fontStyle="0" fontSize="10"/>
+                     fontStyle="0" fontSize="10"/><!-- ok -->
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="373737" bgColor="373737" fontName=""
-                     fontStyle="0" fontSize=""/>
+                     fontStyle="0" fontSize=""/><!-- ok -->
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="E0EE34" bgColor="3B514D" fontName=""
-                     fontStyle="1" fontSize="10"/>
+                     fontStyle="1" fontSize="10"/><!-- ok -->
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="CC0000" bgColor="2B2B2B" fontName="" fontStyle="0"
-                     fontSize=""/>
-        <WidgetStyle name="Current line background colour" styleID="0" bgColor="323232"/>
-        <WidgetStyle name="Selected text colour" styleID="0" bgColor="214283"/>
-        <WidgetStyle name="Caret colour" styleID="2069" fgColor="BBBBBB"/>
+                     fontSize=""/><!-- ok -->
+        <WidgetStyle name="Current line background colour" styleID="0" bgColor="323232"/><!-- ok -->
+        <WidgetStyle name="Selected text colour" styleID="0" bgColor="214283"/><!-- ok -->
+        <WidgetStyle name="Caret colour" styleID="2069" fgColor="BBBBBB"/><!-- ok -->
         <WidgetStyle name="Edge colour" styleID="0" fgColor="80ffff"/>
         <WidgetStyle name="Line number margin" styleID="33" fgColor="606366" bgColor="313335" fontName="" fontStyle="0"
-                     fontSize=""/>
-        <WidgetStyle name="Fold" styleID="0" fgColor="666666" bgColor="2b2b2b"/>
-        <WidgetStyle name="Fold active" styleID="0" fgColor="666666"/>
-        <WidgetStyle name="Fold margin" styleID="0" fgColor="313335" bgColor="313335"/>
-        <WidgetStyle name="White space symbol" styleID="0" fgColor="505050"/>
-        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="214283"/>
-        <WidgetStyle name="Find Mark Style" styleID="31" bgColor="FF0000"/>
+                     fontSize=""/><!-- ok -->
+        <WidgetStyle name="Fold" styleID="0" fgColor="666666" bgColor="2b2b2b"/><!-- ok -->
+        <WidgetStyle name="Fold active" styleID="0" fgColor="666666"/><!-- ok -->
+        <WidgetStyle name="Fold margin" styleID="0" fgColor="313335" bgColor="313335"/><!-- ok -->
+        <WidgetStyle name="White space symbol" styleID="0" fgColor="505050"/><!-- ok -->
+        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="214283"/><!-- ok -->
+        <WidgetStyle name="Find Mark Style" styleID="31" bgColor="00dd00"/>
         <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00FFFF"/>
         <WidgetStyle name="Mark Style 2" styleID="24" bgColor="FF8000"/>
         <WidgetStyle name="Mark Style 3" styleID="23" bgColor="FFFF00"/>
@@ -1645,10 +1645,10 @@ Supported languages: C, C++, C#, Java, HTML, XML
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF"/>
         <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="3B514D"/>
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="BABABA"/>
-        <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="515658"/>
-        <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="515658"/>
-        <WidgetStyle name="Active tab text" styleID="0" fgColor="2b2b2b"/>
-        <WidgetStyle name="Inactive tabs" styleID="0" fgColor="808080" bgColor="C0C0C0"/>
-        <WidgetStyle name="URL hovered" styleID="0" fgColor="A5C261"/>
+        <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="515658"/><!-- ok -->
+        <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="515658"/><!-- ok -->
+        <WidgetStyle name="Active tab text" styleID="0" fgColor="2b2b2b"/><!-- ok -->
+        <WidgetStyle name="Inactive tabs" styleID="0" fgColor="808080" bgColor="C0C0C0"/><!-- ok -->
+        <WidgetStyle name="URL hovered" styleID="0" fgColor="A5C261"/><!-- ok -->
     </GlobalStyles>
 </NotepadPlus>
