@@ -8,6 +8,7 @@
 * Java
 * Python
 * PHP
+* SQL
 * JavaScript and JSON
 * HTML, XML
 * CSS
