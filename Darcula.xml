@@ -463,28 +463,28 @@ Supported languages: C, C++, C#, Java, Python, PHP, JavaScript and JSON, HTML, X
         <LexerType name="css" desc="CSS" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="TAG" styleID="1" fgColor="0000FF" bgColor="2B2B2B" fontName="Batang" fontStyle="0"
+            <WordsStyle name="TAG" styleID="1" fgColor="E8BF6A" bgColor="2B2B2B" fontName="Batang" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="CLASS" styleID="2" fgColor="FF0000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="CLASS" styleID="2" fgColor="E8BF6A" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="PSEUDOCLASS" styleID="3" fgColor="FF8000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="PSEUDOCLASS" styleID="3" fgColor="E8BF6A" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="UNKNOWN_PSEUDOCLASS" styleID="4" fgColor="FF8080" bgColor="2B2B2B" fontName=""
+            <WordsStyle name="UNKNOWN_PSEUDOCLASS" styleID="4" fgColor="E8BF6A" bgColor="2B2B2B" fontName=""
                         fontStyle="0" fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="5" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="OPERATOR" styleID="5" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="IDENTIFIER" styleID="6" fgColor="8080C0" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="IDENTIFIER" styleID="6" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="instre1"/>
-            <WordsStyle name="UNKNOWN_IDENTIFIER" styleID="7" fgColor="000000" bgColor="2B2B2B" fontName=""
+            <WordsStyle name="UNKNOWN_IDENTIFIER" styleID="7" fgColor="A9B7C6" bgColor="2B2B2B" fontName=""
                         fontStyle="0" fontSize=""/>
-            <WordsStyle name="VALUE" styleID="8" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="VALUE" styleID="8" fgColor="A5C261" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="9" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="ID" styleID="10" fgColor="0080FF" bgColor="2B2B2B" fontName="" fontStyle="0" fontSize=""/>
-            <WordsStyle name="IMPORTANT" styleID="11" fgColor="FF0000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="ID" styleID="10" fgColor="E8BF6A" bgColor="2B2B2B" fontName="" fontStyle="0" fontSize=""/>
+            <WordsStyle name="IMPORTANT" styleID="11" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DIRECTIVE" styleID="12" fgColor="0080FF" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DIRECTIVE" styleID="12" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
         </LexerType>
         <LexerType name="d" desc="D" ext="">

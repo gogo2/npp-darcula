@@ -9,8 +9,8 @@
 * Python
 * PHP
 * JavaScript and JSON
-* HTML
-* XML
+* HTML, XML
+* CSS
 * CMake
 
 (Note: some styles may slightly differ from original Darcula because of Notepad++ limitations)
