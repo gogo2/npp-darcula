@@ -3,6 +3,7 @@
 ### Dark theme for Notepad++ based on Darcula theme from JetBrains products
 
 ####Currently the following languages are fully supported:
+* ASM
 * C/C++
 * C#
 * Java

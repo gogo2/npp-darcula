@@ -12,7 +12,7 @@ License: MIT
 Installation:
     Copy this file to: C:/Users/{UserName}/AppData/Roaming/Notepad++/themes
 
-Supported languages: C, C++, C#, Java, Python, PHP, SQL, JavaScript and JSON, HTML, XML, CSS, CMake
+Supported languages: ASM, C, C++, C#, Java, Python, PHP, SQL, JavaScript and JSON, HTML, XML, CSS, CMake
 
 -->
 
@@ -103,29 +103,29 @@ Supported languages: C, C++, C#, Java, Python, PHP, SQL, JavaScript and JSON, HT
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="NUMBER" styleID="2" fgColor="FF8000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="NUMBER" styleID="2" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="STRING" styleID="3" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="STRING" styleID="3" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="4" fgColor="000080" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="OPERATOR" styleID="4" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="IDENTIFIER" styleID="5" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="IDENTIFIER" styleID="5" fgColor="E8BF6A" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="CPU INSTRUCTION" styleID="6" fgColor="0000FF" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="CPU INSTRUCTION" styleID="6" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="instre1"/>
-            <WordsStyle name="MATH INSTRUCTION" styleID="7" fgColor="0080C0" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="MATH INSTRUCTION" styleID="7" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="instre2"/>
-            <WordsStyle name="REGISTER" styleID="8" fgColor="8080FF" bgColor="FFFFCC" fontName="" fontStyle="0"
+            <WordsStyle name="REGISTER" styleID="8" fgColor="E8BF6A" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="type1"/>
-            <WordsStyle name="DIRECTIVE" styleID="9" fgColor="0080FF" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DIRECTIVE" styleID="9" fgColor="E8BF6A" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="type2"/>
-            <WordsStyle name="DIRECTIVE OPERAND" styleID="10" fgColor="000080" bgColor="2B2B2B" fontName=""
+            <WordsStyle name="DIRECTIVE OPERAND" styleID="10" fgColor="E8BF6A" bgColor="2B2B2B" fontName=""
                         fontStyle="0" fontSize="" keywordClass="type3"/>
             <WordsStyle name="COMMENT BLOCK" styleID="11" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="CHARACTER" styleID="12" fgColor="808000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="CHARACTER" styleID="12" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="EXT INSTRUCTION" styleID="14" fgColor="804000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="EXT INSTRUCTION" styleID="14" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="type4"/>
         </LexerType>
         <LexerType name="autoit" desc="autoIt" ext="">
@@ -1621,7 +1621,7 @@ Supported languages: C, C++, C#, Java, Python, PHP, SQL, JavaScript and JSON, HT
                      fontStyle="0" fontSize="10"/><!-- ok -->
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="373737" bgColor="373737" fontName=""
                      fontStyle="0" fontSize=""/><!-- ok -->
-        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="E0EE34" bgColor="3B514D" fontName=""
+        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="E8BF6A" bgColor="3B514D" fontName=""
                      fontStyle="0" fontSize="10"/><!-- ok -->
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="CC0000" bgColor="2B2B2B" fontName="" fontStyle="0"
                      fontSize=""/><!-- ok -->
