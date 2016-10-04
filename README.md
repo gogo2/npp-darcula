@@ -14,6 +14,7 @@
 * HTML, XML
 * CSS
 * CMake
+* Bash
 
 (Note: some styles may slightly differ from original Darcula because of Notepad++ limitations.
 I'm going to take a look into possibilities of tweaking Notepad++ parser, but it's not my highest priority.)
