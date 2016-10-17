@@ -12,7 +12,7 @@ License: MIT
 Installation:
     Copy this file to: C:/Users/{UserName}/AppData/Roaming/Notepad++/themes
 
-Supported languages: ASM, C, C++, C#, Java, Python, PHP, SQL, JavaScript and JSON, HTML, XML, CSS, CMake, Bash
+Supported languages: ASM, C, C++, C#, Java, Python, Lua, PHP, SQL, JavaScript and JSON, HTML, XML, CSS, CMake, Bash
 
 -->
 
@@ -873,7 +873,7 @@ Supported languages: ASM, C, C++, C#, Java, Python, PHP, SQL, JavaScript and JSO
                         fontSize=""/>
             <WordsStyle name="COMMENTLINE" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="NUMBER" styleID="2" fgColor="FF8000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="NUMBER" styleID="2" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="FUNCTION WORD" styleID="3" fgColor="0000FF" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="instre1"/>
@@ -901,29 +901,29 @@ Supported languages: ASM, C, C++, C#, Java, Python, PHP, SQL, JavaScript and JSO
                         fontSize=""/>
             <WordsStyle name="COMMENT DOC" styleID="3" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="LITERALSTRING" styleID="8" fgColor="95004A" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="LITERALSTRING" styleID="8" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="bbb529" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="BBB529" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="instre1"/>
             <WordsStyle name="NUMBER" styleID="4" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="STRING" styleID="6" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="STRING" styleID="6" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="CHARACTER" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="CHARACTER" styleID="7" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="OPERATOR" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="FUNC1" styleID="13" fgColor="0080C0" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="FUNC1" styleID="13" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="instre2"/>
-            <WordsStyle name="FUNC2" styleID="14" fgColor="8000FF" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="FUNC2" styleID="14" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="type1"/>
-            <WordsStyle name="FUNC3" styleID="15" fgColor="0000A0" bgColor="2B2B2B" fontName="" fontStyle="3"
+            <WordsStyle name="FUNC3" styleID="15" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="3"
                         fontSize="" keywordClass="type2"/>
-            <WordsStyle name="IDENTIFIER" styleID="11" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="IDENTIFIER" styleID="11" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="LABEL" styleID="20" fgColor="808000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="LABEL" styleID="20" fgColor="909000" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
         </LexerType>
         <LexerType name="makefile" desc="Makefile" ext="">
