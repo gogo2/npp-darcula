@@ -8,6 +8,7 @@
 * C#
 * Java
 * Python
+* Lua
 * PHP
 * SQL
 * JavaScript and JSON
