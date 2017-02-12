@@ -13,7 +13,7 @@ Installation:
     Copy this file to: C:/Users/{UserName}/AppData/Roaming/Notepad++/themes
 
 Supported languages: ASM, C, C++, C#, Java, Python, Lua, PHP, SQL, JavaScript, JSON, HTML, XML, YAML, CSS, CMake, Makefile, 
-					 Bash, PowerShell
+					 Bash, Batch, PowerShell
 
 -->
 
@@ -196,17 +196,17 @@ Supported languages: ASM, C, C++, C#, Java, Python, Lua, PHP, SQL, JavaScript, J
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="KEYWORDS" styleID="2" fgColor="0000FF" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="KEYWORDS" styleID="2" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="instre1"/>
-            <WordsStyle name="LABEL" styleID="3" fgColor="FF0000" bgColor="FFFF80" fontName="" fontStyle="0"
+            <WordsStyle name="LABEL" styleID="3" fgColor="E8BF6A" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="HIDE SYBOL" styleID="4" fgColor="FF00FF" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="HIDE SYBOL" styleID="4" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="COMMAND" styleID="5" fgColor="0080FF" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="COMMAND" styleID="5" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="VARIABLE" styleID="6" fgColor="FF8000" bgColor="FCFFF0" fontName="" fontStyle="0"
+            <WordsStyle name="VARIABLE" styleID="6" fgColor="9876AA" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="7" fgColor="FF0000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="OPERATOR" styleID="7" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
         </LexerType>
         <LexerType name="c" desc="C" ext="">
