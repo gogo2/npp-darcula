@@ -15,7 +15,7 @@
 * HTML
 * CSS
 * XML, YAML, JSON
-* CMake
+* Makefile, CMake
 * Bash
 * ChaiScript(through my [language support component](https://github.com/ChaiScript/npp-chaiscript)
 
