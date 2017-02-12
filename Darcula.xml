@@ -12,7 +12,7 @@ License: MIT
 Installation:
     Copy this file to: C:/Users/{UserName}/AppData/Roaming/Notepad++/themes
 
-Supported languages: ASM, C, C++, C#, Java, Python, Lua, PHP, SQL, JavaScript and JSON, HTML, XML, CSS, CMake, Bash
+Supported languages: ASM, C, C++, C#, Java, Python, Lua, PHP, SQL, JavaScript, JSON, HTML, XML, YAML, CSS, CMake, Bash
 
 -->
 
@@ -1581,19 +1581,19 @@ Supported languages: ASM, C, C++, C#, Java, Python, Lua, PHP, SQL, JavaScript an
         <LexerType name="yaml" desc="YAML" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="IDENTIFIER" styleID="2" fgColor="000080" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="IDENTIFIER" styleID="2" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="COMMENT" styleID="1" fgColor="629755" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="0000FF" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize="" keywordClass="instre1"/>
-            <WordsStyle name="NUMBER" styleID="4" fgColor="FF8040" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize="" keywordClass="instre1"/><!-- true, false -->
+            <WordsStyle name="NUMBER" styleID="4" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="REFERENCE" styleID="5" fgColor="804000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="REFERENCE" styleID="5" fgColor="E8BF6A" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DOCUMENT" styleID="6" fgColor="0000FF" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DOCUMENT" styleID="6" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="TEXT" styleID="7" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="TEXT" styleID="7" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="ERROR" styleID="8" fgColor="FF0000" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>

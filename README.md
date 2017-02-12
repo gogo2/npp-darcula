@@ -11,9 +11,10 @@
 * Lua
 * PHP
 * SQL
-* JavaScript and JSON
-* HTML, XML
+* JavaScript
+* HTML
 * CSS
+* XML, YAML, JSON
 * CMake
 * Bash
 * ChaiScript(through my [language support component](https://github.com/ChaiScript/npp-chaiscript)
