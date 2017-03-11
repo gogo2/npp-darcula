@@ -24,7 +24,7 @@
 I'm going to take a look into possibilities of tweaking Notepad++ parser, but it's not my highest priority.)
 
 ####Installation
-Copy file **Darcula.xml** to _C:/Users/{UserName}/AppData/Roaming/Notepad++/themes_ directory.
+Copy file **Darcula.xml** to _C:/Users/%USERNAME%/AppData/Roaming/Notepad++/themes_ directory.
 
 
 ####Stay tuned for more languages!
