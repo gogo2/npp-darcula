@@ -16,8 +16,10 @@
 * HTML
 * CSS
 * XML, YAML, JSON
-* Makefile, CMake
+* Makefile
+* CMake
 * Bash, Batch, PowerShell
+* INI files
 * ChaiScript(through my [language support component](https://github.com/ChaiScript/npp-chaiscript)
 
 (Note: some styles may slightly differ from original Darcula because of Notepad++ limitations.

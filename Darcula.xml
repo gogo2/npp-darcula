@@ -13,7 +13,7 @@ Installation:
     Copy this file to: C:/Users/{UserName}/AppData/Roaming/Notepad++/themes
 
 Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScript, JSON, HTML, XML, YAML, CSS, CMake, Makefile, 
-					 Bash, Batch, PowerShell
+					 Bash, Batch, PowerShell, INI files
 
 -->
 
@@ -705,11 +705,11 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
                         fontSize=""/>
             <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="SECTION" styleID="2" fgColor="8000FF" bgColor="F2F4FF" fontName="" fontStyle="0"
+            <WordsStyle name="SECTION" styleID="2" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="FF0000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="DEFVAL" styleID="4" fgColor="FF0000" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="DEFVAL" styleID="4" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
         </LexerType>
         <LexerType name="inno" desc="InnoSetup" ext="">
