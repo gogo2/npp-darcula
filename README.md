@@ -25,11 +25,16 @@
 (Note: some styles may slightly differ from original Darcula because of Notepad++ limitations.
 I'm going to take a look into possibilities of tweaking Notepad++ parser, but it's not my highest priority.)
 
+#### [Screenshots](https://github.com/gogo2/npp-darcula/img) 
+
 #### Installation
 Copy file **Darcula.xml** to _C:/Users/%USERNAME%/AppData/Roaming/Notepad++/themes_ directory.
 
-
 #### Stay tuned for more languages!
+
+
+
+
 
 
 
