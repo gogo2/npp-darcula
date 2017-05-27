@@ -20,6 +20,7 @@
 * CMake
 * Bash, Batch, PowerShell
 * INI files
+* TeX
 * ChaiScript(through my [language support component](https://github.com/ChaiScript/npp-chaiscript)
 
 (Note: some styles may slightly differ from original Darcula because of Notepad++ limitations.
