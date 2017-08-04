@@ -7,6 +7,7 @@
 * C/C++
 * C#
 * Java
+* Kotlin(through my [language support component](https://github.com/gogo2/npp-kotlin)
 * Python
 * Ruby
 * Lua
