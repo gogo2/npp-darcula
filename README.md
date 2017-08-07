@@ -7,7 +7,7 @@
 * C/C++
 * C#
 * Java
-* Kotlin(through my [language support component](https://github.com/gogo2/npp-kotlin)
+* Kotlin(through my [language support component](https://github.com/gogo2/npp-kotlin-gradle)
 * Python
 * Ruby
 * Lua
@@ -17,11 +17,12 @@
 * HTML
 * CSS
 * XML, YAML, JSON
-* Makefile
-* CMake
 * Bash, Batch, PowerShell
 * INI files
 * TeX
+* Makefile
+* Gradle 
+* CMake(through my [language support component](https://github.com/gogo2/npp-kotlin-gradle)
 * ChaiScript(through my [language support component](https://github.com/ChaiScript/npp-chaiscript)
 
 (Note: some styles may slightly differ from original Darcula because of Notepad++ limitations.
