@@ -21,8 +21,8 @@
 * INI files
 * TeX
 * Makefile
-* Gradle 
-* CMake(through my [language support component](https://github.com/gogo2/npp-kotlin-gradle)
+* CMake 
+* Gradle(through my [language support component](https://github.com/gogo2/npp-kotlin-gradle)
 * ChaiScript(through my [language support component](https://github.com/ChaiScript/npp-chaiscript)
 
 (Note: some styles may slightly differ from original Darcula because of Notepad++ limitations.
