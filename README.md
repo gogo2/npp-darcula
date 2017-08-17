@@ -19,7 +19,7 @@
 * XML, YAML, JSON
 * Bash, Batch, PowerShell
 * INI files
-* TeX
+* TeX, LaTeX
 * Makefile
 * CMake 
 * Gradle(through my [language support component](https://github.com/gogo2/npp-kotlin-gradle))

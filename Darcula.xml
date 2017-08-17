@@ -13,7 +13,7 @@ Installation:
     Copy this file to: C:/Users/{UserName}/AppData/Roaming/Notepad++/themes
 
 Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScript, JSON, HTML, XML, YAML, CSS, CMake, Makefile, 
-					 Bash, Batch, PowerShell, INI files, TeX
+					 Bash, Batch, PowerShell, INI files, TeX, LaTeX
 
 -->
 
@@ -1456,20 +1456,6 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
             <WordsStyle name="BLOCK COMMENT" styleID="18" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
         </LexerType>
-        <LexerType name="tex" desc="TeX" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
-            <WordsStyle name="SPECIAL" styleID="1" fgColor="497A7B" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
-            <WordsStyle name="GROUP" styleID="2" fgColor="497A7B" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
-            <WordsStyle name="SYMBOL" styleID="3" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
-            <WordsStyle name="COMMAND" styleID="4" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
-            <WordsStyle name="TEXT" styleID="5" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
-        </LexerType>
         <LexerType name="vb" desc="VB / VBS" ext="">
             <WordsStyle name="DEFAULT" styleID="7" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
@@ -1611,6 +1597,88 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
             <WordsStyle name="Selected Line" styleID="5" fgColor="000080" bgColor="FFFF4F" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="Current line background colour" styleID="6" bgColor="323232"/>
+        </LexerType>
+        <LexerType name="tex" desc="TeX" ext="">
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="SPECIAL" styleID="1" fgColor="497A7B" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="GROUP" styleID="2" fgColor="497A7B" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="SYMBOL" styleID="3" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="COMMAND" styleID="4" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="TEXT" styleID="5" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+        </LexerType>
+        <LexerType name="latex" desc="LaTeX" ext="">
+            <WordsStyle name="WHITE SPACE" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="COMMAND" styleID="1" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="TAG OPENING" styleID="2" fgColor="B5B6E3" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="MATH INLINE" styleID="3" fgColor="668AA1" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="COMMENT" styleID="4" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="TAG CLOSING" styleID="5" fgColor="B5B6E3" bgColor="2B2B2B" fontName="" fontStyle="1"
+                        fontSize=""/>
+            <WordsStyle name="MATH BLOCK" styleID="6" fgColor="668AA1" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="COMMENT BLOCK" styleID="7" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="VERBATIM SEGMENT" styleID="8" fgColor="666666" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="SHORT COMMAND" styleID="9" fgColor="668AA1" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="SPECIAL CHAR" styleID="10" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="COMMAND OPTIONAL ARGUMENT" styleID="11" fgColor="FFC66D" bgColor="2B2B2B" fontName=""
+                        fontStyle="0" fontSize=""/>
+            <WordsStyle name="SYNTAX ERROR" styleID="12" fgColor="ff0000" bgColor="ff0000" fontName="" fontStyle="0"
+                        fontSize=""/>
+        </LexerType>
+        <LexerType name="oscript" desc="OScript" ext="">
+            <WordsStyle name="DEFAULT TEXT STYLE" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName=""
+                        fontStyle="0" fontSize=""/>
+            <WordsStyle name="SINGLE-LINE COMMENT" styleID="1" fgColor="007F00" bgColor="2B2B2B" fontName=""
+                        fontStyle="0" fontSize=""/>
+            <WordsStyle name="MULTI-LINE COMMENT" styleID="2" fgColor="007F00" bgColor="2B2B2B" fontName=""
+                        fontStyle="0" fontSize=""/>
+            <WordsStyle name="#IFDEF DOC AND #ENDIF" styleID="3" fgColor="3F703F" bgColor="2B2B2B" fontName=""
+                        fontStyle="0" fontSize=""/>
+            <WordsStyle name="PREPROCESSOR DIRECTIVE" styleID="4" fgColor="7F7F00" bgColor="2B2B2B" fontName=""
+                        fontStyle="0" fontSize=""/>
+            <WordsStyle name="NUMBER" styleID="5" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="STRING SINGLE QUOTES" styleID="6" fgColor="7F007F" bgColor="2B2B2B" fontName=""
+                        fontStyle="0" fontSize=""/>
+            <WordsStyle name="STRING DOUBLE QUOTES" styleID="7" fgColor="7F007F" bgColor="2B2B2B" fontName=""
+                        fontStyle="0" fontSize=""/>
+            <WordsStyle name="CONSTANT LITERAL" styleID="8" fgColor="FF7F3F" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize="" keywordClass="instre2"/>
+            <WordsStyle name="IDENTIFIER" styleID="9" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="SERVER-GLOBAL VARIABLE (PREFIXED BY $)" styleID="10" fgColor="7F007F" bgColor="2B2B2B"
+                        fontName="" fontStyle="0" fontSize=""/>
+            <WordsStyle name="LANGUAGE NATIVE KEYWORD OR RESERVED WORD" styleID="11" fgColor="00007F" bgColor="2B2B2B"
+                        fontName="" fontStyle="0" fontSize="" keywordClass="instre1"/>
+            <WordsStyle name="OPERATOR; EITHER SYMBOLIC OR LITERAL" styleID="12" fgColor="000000" bgColor="2B2B2B"
+                        fontName="" fontStyle="0" fontSize="" keywordClass="type1"/>
+            <WordsStyle name="LABEL TO JUMP TO WITH THE GOTO STATEMENT" styleID="13" fgColor="FF00FF" bgColor="2B2B2B"
+                        fontName="" fontStyle="0" fontSize=""/>
+            <WordsStyle name="KEYWORDS" styleID="14" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize="" keywordClass="type2"/>
+            <WordsStyle name="KEYWORDS" styleID="15" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize="" keywordClass="type3"/>
+            <WordsStyle name="STATIC BUILT-IN OBJECT" styleID="16" fgColor="007F7F" bgColor="2B2B2B" fontName=""
+                        fontStyle="0" fontSize="" keywordClass="type4"/>
+            <WordsStyle name="OBJECT PROPERTY" styleID="17" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
+            <WordsStyle name="OBJECT METHOD" styleID="18" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize=""/>
         </LexerType>
     </LexerStyles>
     <GlobalStyles>
