@@ -1657,8 +1657,8 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
                         fontStyle="0" fontSize=""/>
             <WordsStyle name="STRING DOUBLE QUOTES" styleID="7" fgColor="6a8759" bgColor="2B2B2B" fontName=""
                         fontStyle="0" fontSize=""/>
-            <WordsStyle name="CONSTANT LITERAL" styleID="8" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize="" keywordClass="instre2"/><!--? -->
+            <WordsStyle name="CONSTANT LITERAL" styleID="8" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
+                        fontSize="" keywordClass="instre2"/>
             <WordsStyle name="IDENTIFIER" styleID="9" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="SERVER-GLOBAL VARIABLE (PREFIXED BY $)" styleID="10" fgColor="9876AA" bgColor="2B2B2B"
