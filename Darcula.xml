@@ -697,7 +697,7 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
                         fontSize=""/>
             <WordsStyle name="VALUE" styleID="19" fgColor="A5C261" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="ENTITY" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="2"
+            <WordsStyle name="ENTITY" styleID="10" fgColor="6D9CBE" bgColor="2B2B2B" fontName="" fontStyle="2"
                         fontSize=""/>
         </LexerType>
         <LexerType name="ini" desc="ini file" ext="">
@@ -1697,7 +1697,7 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="323232"/><!-- ok -->
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="214283"/><!-- ok -->
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="BBBBBB"/><!-- ok -->
-        <WidgetStyle name="Edge colour" styleID="0" fgColor="80ffff"/>
+        <WidgetStyle name="Edge colour" styleID="0" fgColor="4D4D4D"/>
         <WidgetStyle name="Line number margin" styleID="33" fgColor="606366" bgColor="313335" fontName="" fontStyle="0"
                      fontSize=""/><!-- ok -->
         <WidgetStyle name="Fold" styleID="0" fgColor="666666" bgColor="2b2b2b"/><!-- ok -->
