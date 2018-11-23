@@ -24,6 +24,7 @@
 * CMake 
 * Gradle(through my [language support component](https://github.com/gogo2/npp-kotlin-gradle))
 * ChaiScript(through my [language support component](https://github.com/ChaiScript/npp-chaiscript))
+* GLSL(through my [language support component](https://github.com/gogo2/npp-glsl))
 * OScript
 
 (Note: some styles may slightly differ from original Darcula because of Notepad++ limitations.
