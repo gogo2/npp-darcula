@@ -6,6 +6,7 @@
 * ASM
 * C/C++
 * C#
+* VB
 * Java
 * Kotlin(through my [language support component](https://github.com/gogo2/npp-kotlin-gradle))
 * Python

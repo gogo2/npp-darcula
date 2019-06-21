@@ -1456,23 +1456,22 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
             <WordsStyle name="BLOCK COMMENT" styleID="18" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
         </LexerType>
-        <LexerType name="vb" desc="VB / VBS" ext="">
-            <WordsStyle name="DEFAULT" styleID="7" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
-            <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
-            <WordsStyle name="NUMBER" styleID="2" fgColor="FF0000" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
-            <WordsStyle name="WORD" styleID="3" fgColor="0000FF" bgColor="2B2B2B" fontName="" fontStyle="0" fontSize=""
-                        keywordClass="instre1"/>
-            <WordsStyle name="STRING" styleID="4" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
-            <WordsStyle name="PREPROCESSOR" styleID="5" fgColor="FF0000" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
-            <WordsStyle name="OPERATOR" styleID="6" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
-            <WordsStyle name="DATE" styleID="8" fgColor="00FF00" bgColor="2B2B2B" fontName="" fontStyle="0"
-                        fontSize=""/>
+			<LexerType name="vb" desc="VB / VBS" ext="">
+            <WordsStyle name="DEFAULT" styleID="7" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0" 
+						fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="0" 
+						fontSize="" />
+            <WordsStyle name="NUMBER" styleID="2" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0" 
+						fontSize="" />
+            <WordsStyle name="WORD" styleID="3" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0" 
+						fontSize="" keywordClass="instre1" />
+            <WordsStyle name="STRING" styleID="4" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="0" 
+						fontSize="" />
+            <WordsStyle name="PREPROCESSOR" styleID="5" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0" 		   fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="6" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0" 
+						fontSize="" />
+            <WordsStyle name="DATE" styleID="8" fgColor="629755" bgColor="2B2B2B" fontName="" fontStyle="0" 
+						fontSize="" />
         </LexerType>
         <LexerType name="verilog" desc="Verilog" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
