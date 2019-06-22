@@ -40,8 +40,6 @@ Markdown User Defined Language support component is build with [Markdown++](http
 
 ##### Installation
 
-#### Installation
-
 1. Choose and download appropriate _.xml_ file according to your theme preferences.
 
 | modern | classic |
