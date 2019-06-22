@@ -1,0 +1,30 @@
+{
+	"themeName": "Darcula",
+	"default": {
+		"fgColor": "A9B7C6",
+		"bgColor": "2B2B2B",
+		"extraHighlight": false,
+		"transparentBg": false
+	},
+	"header": {
+		"fgColor": "9876AA"
+	},
+	"emphasis": {
+		"fgColor": "CC7832"
+	},
+	"orderedList": {
+		"fgColor": "CC7832"
+	},
+	"unorderedList": {
+		"fgColor": "CC7832"
+	},
+	"code": {
+		"fgColor": "808080"
+	},
+	"link": {
+		"fgColor": "FFC66D"
+	},
+	"comment": {
+		"fgColor": "808080"
+	}
+}
