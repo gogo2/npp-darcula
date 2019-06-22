@@ -21,7 +21,7 @@
 * Bash, Batch, PowerShell
 * INI files
 * TeX, LaTeX
-* Markdown(through [Markdown++](https://github.com/Edditoria/markdown-plus-plus) theme)
+* Markdown(through [Markdown++](https://github.com/Edditoria/markdown-plus-plus) based [theme](https://github.com/gogo2/npp-darcula/tree/master/markdown-plus-plus-theme-darcula))
 * Makefile
 * CMake 
 * Gradle(through my [language support component](https://github.com/gogo2/npp-kotlin-gradle)
