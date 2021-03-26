@@ -698,7 +698,7 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
             <WordsStyle name="VALUE" styleID="19" fgColor="A5C261" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
             <WordsStyle name="ENTITY" styleID="10" fgColor="6D9CBE" bgColor="2B2B2B" fontName="" fontStyle="2"
-                        fontSize=""/>
+                        fontSize=""/>                        
         </LexerType>
         <LexerType name="ini" desc="ini file" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
@@ -1563,6 +1563,8 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
                         fontSize=""/>
             <WordsStyle name="CDATA" styleID="17" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
+            <WordsStyle name="ENTITY" styleID="10" fgColor="6D9CBE" bgColor="2B2B2B" fontName="" fontStyle="0" 
+                        fontSize="" />
         </LexerType>
         <LexerType name="yaml" desc="YAML" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
