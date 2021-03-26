@@ -861,7 +861,7 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
                         keywordClass="instre1"/>
             <WordsStyle name="LDKEYWORD" styleID="12" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="instre2"/>
-            <WordsStyle name="ERROR" styleID="13" fgColor="FFFF80" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="ERROR" styleID="13" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
         </LexerType>
         <LexerType name="kix" desc="KiXtart" ext="">
