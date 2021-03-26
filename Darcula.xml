@@ -697,7 +697,7 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
                         fontSize=""/>
             <WordsStyle name="VALUE" styleID="19" fgColor="A5C261" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>
-            <WordsStyle name="ENTITY" styleID="10" fgColor="6D9CBE" bgColor="2B2B2B" fontName="" fontStyle="2"
+            <WordsStyle name="ENTITY" styleID="10" fgColor="6D9CBE" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize=""/>                        
         </LexerType>
         <LexerType name="ini" desc="ini file" ext="">
