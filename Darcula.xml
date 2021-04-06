@@ -1545,7 +1545,7 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
                         fontSize=""/>
             <WordsStyle name="INSTRUCTION" styleID="8" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="instre1"/>
-            <WordsStyle name="STD OPERATOR" styleID="9" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="STD OPERATOR" styleID="9" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="instre2"/>
             <WordsStyle name="ATTRIBUTE" styleID="10" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="type1"/>
@@ -1557,7 +1557,7 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
                         fontSize="" keywordClass="type2"/>
             <WordsStyle name="STD PACKAGE" styleID="12" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="type3"/>
-            <WordsStyle name="STD TYPE" styleID="13" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0"
+            <WordsStyle name="STD TYPE" styleID="13" fgColor="8888C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="type4"/>
             <WordsStyle name="USER DEFINE" styleID="14" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0"
                         fontSize="" keywordClass="type5"/>
