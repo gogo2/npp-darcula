@@ -4,6 +4,7 @@
 
 #### Currently the following languages are fully supported:
 * ASM
+* VHDL
 * C/C++
 * C#
 * VB
