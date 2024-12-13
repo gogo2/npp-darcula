@@ -11,6 +11,7 @@
 * Java
 * Kotlin(through my [language support component](https://github.com/gogo2/npp-kotlin-gradle))
 * Python
+* Go
 * Ruby
 * Lua
 * PHP
