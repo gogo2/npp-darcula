@@ -940,6 +940,7 @@ Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScr
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="BBBBBB"/><!-- ok -->
         <WidgetStyle name="Edge colour" styleID="0" fgColor="4D4D4D"/>
         <WidgetStyle name="Line number margin" styleID="33" fgColor="606366" bgColor="313335" fontName="" fontStyle="0" fontSize=""/><!-- ok -->
+        <WidgetStyle name="Bookmark margin" styleID="0" fgColor="606366" bgColor="313335" fontStyle="0" fontSize=""/><!-- ok -->
         <WidgetStyle name="Fold" styleID="0" fgColor="666666" bgColor="2b2b2b"/><!-- ok -->
         <WidgetStyle name="Fold active" styleID="0" fgColor="666666"/><!-- ok -->
         <WidgetStyle name="Fold margin" styleID="0" fgColor="313335" bgColor="313335"/><!-- ok -->
