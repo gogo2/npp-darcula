@@ -11,7 +11,7 @@ License: MIT
 Installation:
     Copy this file to: C:/Users/{UserName}/AppData/Roaming/Notepad++/themes
 
-Supported languages: ASM, C, C++, C#, Java, Python, Ruby, Lua, PHP, SQL, JavaScript, JSON, HTML, XML, YAML, CSS, CMake, Makefile, 
+Supported languages: ASM, C, C++, C#, Java, Python, Go, Ruby, Lua, PHP, SQL, JavaScript, JSON, HTML, XML, YAML, CSS, CMake, Makefile,
 					 Bash, Batch, PowerShell, INI files, TeX, LaTeX, OScript
 
 -->
